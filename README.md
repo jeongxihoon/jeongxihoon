@@ -1,9 +1,3 @@
-## **Introduction**
-
-
-> A man who want to be a 'Data Scientist'
-
-
 ## **Profile**
 
 
