@@ -28,6 +28,7 @@
 - **E-mail** : jhoon85212@gmail.com
 - **Github** : [github.com/jeongxihoon](https://github.com/jeongxihoon)
 - **Instagram** : [@jeongxihoon__](https://www.instagram.com/jeongxihoon__)
+- **GitHub.io** : [Minimal Space](https://jeongxihoon.github.io)
 
 
 ## **My Portfolio**
