@@ -2,7 +2,7 @@
 
 
 - **Name** : 정지훈 / Jihoon, Jeong
-- **Location** : Seongnam-si, Republic of Korea
+- **Location** : Seoul, Republic of Korea
 
 
 ## **Career**
@@ -15,10 +15,11 @@
 ## **Want to be**
 
 
-- Improving Python Programming
-- Improving R Programming
-- Data Analysis with Python & R
+- Improving Python Programming Skills
+- Improving SQL Skills
+- Data Analysis with Python & SQL
 - Data Scientist
+- Business Analytics
 
 
 ## **Contact & SNS**
@@ -26,7 +27,6 @@
 
 - **E-mail** : jhoon85212@gmail.com
 - **Github** : [github.com/jeongxihoon](https://github.com/jeongxihoon)
-- **Facebook** : [facebook.com/jhoon85212](https://www.facebook.com/jhoon85212)
 - **Instagram** : [@jeongxihoon__](https://www.instagram.com/jeongxihoon__)
 
 
